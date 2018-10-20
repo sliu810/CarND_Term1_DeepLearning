@@ -13,3 +13,9 @@
 [submodule "projects/CarND_T1_P5_VehicleDetection"]
 	path = projects/CarND_T1_P5_VehicleDetection
 	url = https://github.com/sliu810/CarND_T1_P5_VehicleDetection.git
+[submodule "repos/CarND-Term1-Starter-Kit"]
+	path = repos/CarND-Term1-Starter-Kit
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit.git
+[submodule "repos/CarND-Term1-Starter-Kit-Test"]
+	path = repos/CarND-Term1-Starter-Kit-Test
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit-Test.git
