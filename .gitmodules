@@ -1,0 +1,15 @@
+[submodule "projects/CarND_T1_P1_FineLaneLines"]
+	path = projects/CarND_T1_P1_FineLaneLines
+	url = https://github.com/sliu810/CarND_T1_P1_FineLaneLines.git
+[submodule "projects/CarND_T1_P2_TrafficSignClassifier"]
+	path = projects/CarND_T1_P2_TrafficSignClassifier
+	url = https://github.com/sliu810/CarND_T1_P2_TrafficSignClassifier.git
+[submodule "projects/CarND_T1_P3_BehavioralCloning"]
+	path = projects/CarND_T1_P3_BehavioralCloning
+	url = https://github.com/sliu810/CarND_T1_P3_BehavioralCloning.git
+[submodule "projects/CarND_T1_P4_AdvancedLaneFinding"]
+	path = projects/CarND_T1_P4_AdvancedLaneFinding
+	url = https://github.com/sliu810/CarND_T1_P4_AdvancedLaneFinding.git
+[submodule "projects/CarND_T1_P5_VehicleDetection"]
+	path = projects/CarND_T1_P5_VehicleDetection
+	url = https://github.com/sliu810/CarND_T1_P5_VehicleDetection.git
